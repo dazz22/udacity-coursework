@@ -1,0 +1,21 @@
+Downloaded Pathegen for Vim
+https://gist.github.com/romainl/9970697
+
+	mkdir ~/.vim/autoload/
+	mkdir ~/.vim/bundle
+	cd ~/.vim/autoload/
+	wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+	
+	vi ~/.vimrc
+			execute pathogen#infect()
+
+			filetype plugin indent on
+			syntax on
+
+Install python-mode vim plugin
+https://github.com/python-mode/python-mode#how-to-install
+
+	cd ~/.vim/bundle
+	git clone https://github.com/python-mode/python-mode#how-to-install
+
+
