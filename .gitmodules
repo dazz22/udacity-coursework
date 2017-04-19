@@ -1,3 +1,3 @@
 [submodule "ud120-projects"]
-	path = ./Machine_Learning_intro_to/ud120-projects
+	path = /Machine_Learning_intro_to/ud120-projects
 	url = https://github.com/udacity/ud120-projects.git
